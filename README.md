@@ -1,6 +1,7 @@
-### 👋 Hola! Bienvenidos a mi perfil!
+## Hola 👋, soy Nicolas Medina
 
-IT Recruiter. Fanatico de la tecnología y los videojuegos 🎮 👾 
+#### IT Recruiter. Fanatico de la tecnología y los videojuegos 🎮 👾 
+
 
 Si estás buscando trabajo o te interesa conocer propuestas dentro del área, podés escribirme o enviarme tu curriculum: 
 - 📫 nico.mmacchia@gmail.com 
